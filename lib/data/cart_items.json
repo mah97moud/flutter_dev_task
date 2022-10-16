@@ -1,0 +1,39 @@
+{
+    "cartItems": [
+        {
+            "itemName": "Turkish Steak",
+            "description": "173 Grams",
+            "totalPrice": 25.0,
+            "price": 12.5,
+            "quantity": 2
+        },
+        {
+            "itemName": "Salmon",
+            "description": "2 Serving",
+            "totalPrice": 30,
+            "price": 30,
+            "quantity": 1
+        },
+        {
+            "itemName": "Red Juice",
+            "description": "1 Bottle",
+            "totalPrice": 25.5,
+            "price": 8.5,
+            "quantity": 3
+        },
+        {
+            "itemName": "Cola",
+            "description": "1 Bottle",
+            "totalPrice": 12,
+            "price": 5.5,
+            "quantity": 2
+        },
+        {
+            "itemName": "Turkish Steak",
+            "description": "173 Grams",
+            "totalPrice": 25,
+            "price": 12.5,
+            "quantity": 2
+        }
+    ]
+}

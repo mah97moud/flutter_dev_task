@@ -1,0 +1,71 @@
+{
+  "home": {
+    "mainAddress": {
+      "title": "Main Address",
+      "address": "Cairo",
+      "subAdd": "25 St"
+    },
+    "address": [
+      {
+        "title": "Home Address",
+        "address": "Maadi, Cairo",
+        "subAdd": "25 St"
+      },
+      {
+        "title": "Office Address",
+        "address": "Nasr city",
+        "subAdd": "16 St"
+      }
+    ],
+    "categories": [
+      {
+        "color": "0xFFF9BDAD",
+        "title": "Steak"
+      },
+      {
+        "color": "0xFFFAD96D",
+        "title": "Vegetables"
+      },
+      {
+        "color": "0xFFCCB8FF",
+        "title": "Beverages"
+      },
+      {
+        "color": "0xFFB0EAFD",
+        "title": "Fish"
+      },
+      {
+        "color": "0xFFFF9DC2",
+        "title": "Juice"
+      },
+      {
+        "color": "0xFFD93E11",
+        "title": "Fruits"
+      },
+      {
+        "color": "0xFF21114B",
+        "title": "Drinks"
+      }
+    ],
+    "dealOfDay": [
+      {
+        "title": "Summer Sun Ice Cream Pack",
+        "color": "0xFFFBEDD8",
+        "description": "Pieces 5",
+        "price": 12,
+        "address": "15 Minutes Away",
+        "prevPrice": 18,
+        "isFav": false
+      },
+      {
+        "title": "Summer T-shirt",
+        "color": "0xF28D193",
+        "description": "Pieces 7",
+        "price": 10,
+        "address": "20 Minutes Away",
+        "prevPrice": 15,
+        "isFav": true
+      }
+    ]
+  }
+}
